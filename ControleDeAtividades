@@ -1,0 +1,26 @@
+Cadastro de atividades
+-EMPRESA
+-SISTEMA 
+-CAPACIDADE DA LICENÇA 
+-LIMITE DA CAPACIDADE DA LICENÇA
+-SITUAÇÃO
+-DATA DA INSTALAÇÃO/ATIVAÇÃO
+-DATA DO TREINAMENTO
+-RESPONSÁVEL
+-OBSERVAÇÃO
+
+Cadastro sistema
+-NOME
+-OBSERVAÇÃO
+
+Cadastro licenças
+-SISTEMA
+-QUANTIDADE
+
+Cadastro de situação
+-DESCRIÇÃO
+-OBSERVAÇÃO
+
+Cadastro de pessoas
+-NOME
+-SETOR
